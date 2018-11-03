@@ -18,6 +18,11 @@ h2{
     color: #efefef;
 }
 
+a.instant-contact-button{
+    background-color: rgb(2, 117, 216);
+    color: #efefef;
+}
+
 #messages {
     padding: none;
 }

@@ -11,6 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
+    "firebase": "^5.5.6",
+    "firebase-admin": "^6.1.0",
+    "scrollmagic": "^2.0.6",
     "socket.io": "^2.1.1"
   }
 }
