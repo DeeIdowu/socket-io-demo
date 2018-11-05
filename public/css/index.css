@@ -11,6 +11,7 @@ h2{
     border: 1px solid #cccccc;
     margin-bottom: 10px;
     padding: 1rem;
+    overflow-y: auto;
 }
 
 .input-group-addon {
